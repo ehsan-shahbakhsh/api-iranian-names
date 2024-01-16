@@ -4,6 +4,9 @@ Getting a list of Iranian names by gender.
 ## Source
 * [`index.php`](https://github.com/ehsan-shahbakhsh/api-iranian-names/blob/main/example/index.php)
 
+## Dataset
+* [`iranianNames.json`](https://github.com/ehsan-shahbakhsh/api-iranian-names/blob/main/example/iranianNamesDataset.json)
+
 ## How to use
 ```
 domain/index.php?gender=female
